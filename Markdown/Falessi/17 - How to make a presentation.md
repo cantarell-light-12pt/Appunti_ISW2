@@ -1,0 +1,67 @@
+# Errori
+- colori e font 
+- animazioni orribili
+- cambio di font
+- rivolta alle spalle degli ascoltatori
+- voce bassa
+- leggere dalle slide
+- animazioni (sempre peggio)
+- di che sta parlando?
+- mancanza di gestualità e di capacità di coinvolgimento degli ascoltatori
+- scritte piccole
+- parole non scandite bene
+- non far rispondere a una domanda (×2)
+- bassa qualità
+- ancora animazioni orribili
+- non si leggeee
+- disegni al di fuori dello schermo
+- questions su di che
+# Cose importanti da fare in una presentazione
+Un anti-pattern è un errore comune che commettono tutti.
+- **outline**: fornire una roadmap della presentazione
+- **numero di pagina**: fornisce un segnale di progresso e consente di fare domande su slide specifiche
+	- progresso sul numero di pagina
+- **usare una struttura stabile**:
+	- outline (1 slide)
+	- introduzione (3~5 slide)
+		- contesto e terminologia
+		- problema
+		- obiettivo
+	- metodologia (~60% della parte "risultati e discussione")
+	- risultati e discussione (punto più importante)
+	- conclusione e lavori futuri (2~3 slide)
+	- Tutto ciò che sta prima e dopo i risultati serve a supportare questi ultimi
+	- È importante introdurre sé stessi all'inizio e presentarsi bene.
+- **stile e design**:
+	- usare nero su bianco e un approccio consistente per evidenziare i concetti
+		- si possono usare anche corsivo, grassetto, sottolineato e altri colori per evidenziare concetti diversi
+	- non sovrastimare le prestazioni (contrasto e luminosità) di un proiettore
+		- i proiettori sono spesso soggetti ad esempio alla luce della finestra, mentre gli schermi hanno una qualità estremamente più alta
+- **evitare i contrasti deboli**
+- **evitare testo bianco su sfondo nero**
+- **testo e immagini**:
+	- la presenza di tanto testo indica una presentazione noiosa e che distrae, ma molto precisa
+	- le immagini sono più accattivanti e stimolanti, ma molto imprecise
+- **spiegare le immagini e le tabelle**:
+	- indicare cosa mostra un'immagine, cosa i trova sulle assi di un grafico, i diversi colori, trend, esempi specifici
+	- specificare cosa indicano le colonne di una tabella e anche le righe
+- **positività**: bisogna mettersi nei panni di qualcuno che sta vendendo qualcosa
+- **fare pratica**:
+	- la confidenza porta autorità
+	- il nervosismo mina la confidenza
+	- la pratica allevia il nervosismo rendendo più confidente chi presenta
+- **coinvolgimento**: dipende dal livello della presentazione
+	- guardare le persone negli occhi
+	- fare domande se si vedono strane facce
+	- non svegliare le persone che dormono
+	- fare battute se è il momento giusto, ma con cautela per la sensibilità degli ascoltatori
+- **tempo**: stare nei tempi della presentazione, tenere un orologio per un feedback in tempo reale e adattare la presentazione di conseguenza
+- **conoscere l'audience e il luogo della presentazione**: consente di capire la capacità visuale della stanza, come funziona il proiettore ecc e in generale prendere confidenza con l'ambiente
+- **rispondere alle domande**:
+	- essere gentili
+	- non sentirsi minacciati, ma vederle come espressioni di interesse
+	- spesso si fa più di una domanda, quindi essere confidenti
+	- chi presenta non può sapere la risposta per ogni domande o aver risposto a tutte le domande sul proprio lavoro
+	- gestire bene il tempo per pensare alle risposte alle domande
+	- nelle tesi, la credibilità scientifica del lavoro presentato è del relatore; le domande sono spesso delle prove per capire se chi presenta ha capito l'argomento; essere molti esplicativi nelle tesi o comunque soffermarsi ed evidenziare un risultato di un'operazione
+- **contestualizzare le presentazioni**
